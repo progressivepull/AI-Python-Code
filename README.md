@@ -109,3 +109,7 @@ pandas: yes
 sklearn: yes
 openpyxl: yes
 ``` 
+
+# Documents
+* [AI Terms](https://github.com/progressivepull/AI-Python-Code/blob/main/DOCUMENTS/AI_Terms.docx)
+* [ChatGPT Weekly Searches](https://github.com/progressivepull/AI-Python-Code/blob/main/DOCUMENTS/ChatGPT_Weekly_Searches.docx)
