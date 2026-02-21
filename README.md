@@ -119,6 +119,11 @@ sklearn: yes
 openpyxl: yes
 ``` 
 
+
+# Income Predicate
+
+* [people.xlsx](https://github.com/progressivepull/AI-Python-Code/blob/main/Income_PREDICATE/people.xlsx)
+
 # Documents
 * [AI Terms](https://github.com/progressivepull/AI-Python-Code/blob/main/DOCUMENTS/AI_Terms.docx)
 * [ChatGPT Weekly Searches](https://github.com/progressivepull/AI-Python-Code/blob/main/DOCUMENTS/ChatGPT_Weekly_Searches.docx)
