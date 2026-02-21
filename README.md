@@ -25,6 +25,8 @@ Anaconda Powershell Prompt
 
 ## Defaultdict Python Method
 
+* [Defaultdict.py](https://github.com/progressivepull/AI-Python-Code/blob/main/Syntax/Defaultdict.py)
+
 This Python example demonstrates how to use **defaultdict** from the **collections** module to automatically create dictionary values with a default type.
 
 A **defaultdict(list)** is created, which means that if a key does not already exist in the dictionary, it will automatically be assigned an empty list as its default value. This allows you to append items to a key without first checking whether the key exists.
@@ -52,6 +54,8 @@ vegetables: ['carrot', 'peas', 'tomato']
 
 ## Next Word Predicted
 
+* [Corpus.py](https://github.com/progressivepull/AI-Python-Code/blob/main/NextWord_PREDICATE/Corpus.py)
+
 This Python program builds a simple word prediction model by analyzing pairs of consecutive words in a small text sample and storing possible next words for each word. When given an input word, it randomly selects and returns one of the words that previously followed it in the text.
 
 Anaconda Powershell Prompt
@@ -62,6 +66,9 @@ Predicted next word: 'worst'
 ```
 
 ## Test If Can Read Microsoft Excel Document
+
+* [run.py](https://github.com/progressivepull/AI-Python-Code/blob/main/Util/Excel_PRINT/run.py)
+* [vehicle.xlsx](https://github.com/progressivepull/AI-Python-Code/blob/main/Util/Excel_PRINT/vehicle.xlsx)
 
 This Python script uses pandas to read an Excel file named vehicle.xlsx, display its structure (columns, data types, and first five rows), and then filter the data based on specific vehicle colors. It selects and prints only the rows where the colors column contains "Black", "Blue", or "Red".
 
@@ -95,6 +102,8 @@ First 5 Rows:
 
 ``` 
 ## Check if "pandas", "sklearn", "openpyxl" is Installed
+
+* [Lib_Installed_CHECK.py](https://github.com/progressivepull/AI-Python-Code/blob/main/Util/Lib_Installed_CHECK.py)
 
 This Python script checks whether specific libraries are installed in the current environment using the **importlib.util** module.
 
